@@ -1,4 +1,4 @@
-#FinTech_Challenge_07_SQL_PassiveInvestments
+# FinTech_Challenge_07_SQL_PassiveInvestments
 
 This project builds an Exchange Traded Fund of four funds and visualizes the mean cumulative returns of the four funds.  The data is stored in a database and needs to be read in through SQL.  The visualizations need to be created and then a web application needs to be deployed via Voila.  
 
